@@ -1,3 +1,4 @@
 /poppler
 /__pycache__
 /地藏经电子版
+.claude/settings.local.json
